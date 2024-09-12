@@ -22,3 +22,4 @@ When you finish, don’t forget to push it up to GitHub!
 Personal Log: 
 12 Sep 2024: Began Project_Landing-Page by creating index.html and styles.css
     I linked styles.css to index.html
+    I downloaded and saved the pre-sets into the project folder
