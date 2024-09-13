@@ -35,3 +35,5 @@ Personal Log:
 12 Sep 2024: Began Project_Landing-Page by creating index.html and styles.css
     I linked styles.css to index.html
     I downloaded and saved the pre-sets into the project folder
+
+13 Sep 2024: I formatted the README.md and created the basic page layout. 
