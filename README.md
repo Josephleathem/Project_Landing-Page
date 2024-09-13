@@ -2,7 +2,8 @@
 Here is a project to create a landing page. 
 Below are the instructions and comments along the way!
 Start date: 12 Sep 2024
-Introduction
+
+Introduction:
 For this project you’ll be creating an entire web page from a design we’ll provide for you. If you’ve been following along you should have the skills you need to accomplish this, but it may not be easy!
 
 The design we’re providing you comes in the form of 2 images: one is an image of the complete website, and one has some details about some of the fonts and colors we’ve used.
@@ -13,7 +14,7 @@ Get your project as close as you can to the design, but do not worry about getti
 
 Finally, feel free to substitute your own content into this design. The images have some meaningless dummy content, but if you want to make up a business and personalize this page, please feel free to do so! Insert actual images in the placeholders, and feel free to play with the colors and fonts a bit too.
 
-assignment
+Assignment:
 Don’t forget to commit early & often! You can reference the Commit Message lesson!
 
 Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts)
