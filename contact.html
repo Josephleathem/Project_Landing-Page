@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- Project_Landing-Page from The Odin Project
+
+    Author: Joseph Leathem Jr  
+
+    Filename: contact.html -->
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>JL's Marketing</title>
+</head>
+<body>
+    <div class="header">
+        <header>
+            <img src="Images/Vectorized,Inverted,NoBG.png" alt="Logo">
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="contact.html">Contact-Us</a></li>
+                </ul>
+            </nav>
+        </header>
+    </div>
+    <div class="main-section">
+        <div class="section-five">
+            <div class="formIntro">
+                <h1>Get a Free Marketing Analysis:</h1>
+                <!--there us a nice space here-->
+                <p>Would you like to know what we could do for you?</p>
+                <p>Fill out the form and we'll get back to you within 48 hours.</p>
+                <p>No obligations, no annoying high-pressure sales tactics. We won't waste your time.</p>
+            </div>
+        </div>
+        <div class="section-six">
+            <form action="index.html"><!--Need to learn PHP to get this to send via email by itself on submit click-->
+                <div>
+                    <label>Company name::</label>
+                    <input type="text" name="Company_name:" placeholder="JL's Marketing" required>
+                </div>
+                <div>
+                    <label>Name:</label>
+                    <input type="text" name="name" placeholder="First and last name" required>
+                </div>
+                <div>
+                    <label>Email:</label>
+                    <input type="text" name="email" placeholder="example@email.com">
+                </div>
+                <div>
+                    <label>Phone Number:</label>
+                    <input type="text" name="phone_number" >
+                </div>
+                <div>
+                    <label>Website:</label>
+                    <input type="text" name="website" placeholder="JlsMarketingsolutions.com">
+                </div>
+                <div >
+                    <label>What is your most important question: </label> <br />
+                    <textarea type="text" name="reason" cols="40" rows= "5" placeholder="Enter your reason for getting in touch" required></textarea>
+                </div>
+                <div>
+                    <input class="submitbutton button" type="submit" name="submit" value="Submit">
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="footer">
+        <footer>
+            <address>
+                Copyright &copy;2024, JL's Marketing Solutions
+            </address>
+        </footer>
+    </div>
+</body>
+</html>

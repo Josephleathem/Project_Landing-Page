@@ -37,3 +37,10 @@ Personal Log:
     I downloaded and saved the pre-sets into the project folder
 
 13 Sep 2024: I formatted the README.md and created the basic page layout. 
+    I have decided to use a project I began to make for myself and/or my business
+    I used the pre made page I created on HubSpot to create the code
+    I edited the content to index.html
+    I created a second page (contact.html) which I have added all the content too
+    I have linked and tested the connection between pages (test passed)
+    I created a folder for Images, Currently Just the logo and added the logo to the page
+    I used the pre made page and pre set css plus the original code I wrote to add colors, fonts, and some styles to styles.css
