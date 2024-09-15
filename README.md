@@ -54,3 +54,4 @@ Personal Log:
     I Completed the layout for main section - section one
     I Completed the layout for main section - section two
     I Completed the layout for main section - section three and four
+    I Completed the Footer for both pages

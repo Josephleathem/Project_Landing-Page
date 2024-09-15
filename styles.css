@@ -154,6 +154,8 @@ a {
     background-color: #707070;
     display: flex;
     justify-content: end;
+    border-top: 1px solid black;
+    padding: 1px 5px;
 }
 
 
