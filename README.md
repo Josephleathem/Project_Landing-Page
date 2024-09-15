@@ -51,4 +51,5 @@ Personal Log:
     I added a gap between the links in the nav menu
     I edited the logo on the contact page by giving it the same class as the home page logo
     I centered the contact us page
+    I Completed the layout for main section - section one
     
