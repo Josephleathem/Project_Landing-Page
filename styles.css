@@ -57,11 +57,11 @@ a {
     font-size: large;
 }
 
-.sohNMb {
+.nmb {
     margin-bottom: 0px;
 }
 
-.sohNMt {
+.nmt {
     margin-top: 0px;
 }
 
@@ -87,6 +87,23 @@ a {
     display: flex;
     flex-direction: column;
     align-items: center;
+}
+.three-cardElem p {
+    margin-top: 0px;
+}
+
+.three-cardElem{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    text-align: center;
+}
+
+.three-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .three-card {
@@ -131,4 +148,4 @@ a {
 }
 
 
-/*Tools*/
+/*Tools and builder*/
