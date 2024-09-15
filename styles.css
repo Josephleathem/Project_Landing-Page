@@ -17,7 +17,8 @@ body {
 
 header {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
+    justify-content: space-around;
 }
 
 .logo {
@@ -27,6 +28,8 @@ header {
 
 ul {
     display: flex;
+    gap: 60px;
+    padding-left: 0px;
 }
 
 li {
