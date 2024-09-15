@@ -2,7 +2,7 @@
 
 Author: Joseph Leathem Jr  
 
-Filename: index.html */
+Filename: styles.css */
 
 body {
     background-color: white;
@@ -84,6 +84,18 @@ a {
 
 .section-four {
     background-color: #B8B8B8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-five {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-six {
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -49,3 +49,6 @@ Personal Log:
 
 15 Sep 2024: I adjusted the logo size
     I added a gap between the links in the nav menu
+    I edited the logo on the contact page by giving it the same class as the home page logo
+    I centered the contact us page
+    
