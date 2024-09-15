@@ -46,3 +46,6 @@ Personal Log:
     I used the pre made page and pre set css plus the original code I wrote to add colors, fonts, and some styles to styles.css
 
 14 Sep 2024: I used display flex, flex direction, align items, and justify content to enhance the basic layout
+
+15 Sep 2024: I adjusted the logo size
+    
