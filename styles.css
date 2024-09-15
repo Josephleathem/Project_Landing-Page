@@ -20,6 +20,11 @@ header {
     justify-content: space-between;
 }
 
+.logo {
+    height: auto;
+    width: 90px;
+}
+
 ul {
     display: flex;
 }
