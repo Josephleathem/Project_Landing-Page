@@ -57,3 +57,4 @@ Personal Log:
     I Completed the Footer for both pages
     I Completed the layout for section five
     I used flex grow 1 to adjust the pages main section to always fit the viewport
+    I Completed the layout for section six/marketing analysis form
