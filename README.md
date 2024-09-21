@@ -58,3 +58,6 @@ Personal Log:
     I Completed the layout for section five
     I used flex grow 1 to adjust the pages main section to always fit the viewport
     I Completed the layout for section six/marketing analysis form
+
+20 Sep 2024: I fixed the form background color
+    I deleted the presets folder
